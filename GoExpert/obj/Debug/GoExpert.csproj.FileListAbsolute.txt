@@ -1,0 +1,5 @@
+E:\Project\GoExpert\GoExpert\bin\GoExpert.dll
+E:\Project\GoExpert\GoExpert\bin\GoExpert.pdb
+E:\Project\GoExpert\GoExpert\obj\Debug\GoExpert.csprojResolveAssemblyReference.cache
+E:\Project\GoExpert\GoExpert\obj\Debug\GoExpert.dll
+E:\Project\GoExpert\GoExpert\obj\Debug\GoExpert.pdb
